@@ -25,14 +25,14 @@
   ],
   "education": [
     {
-      "institution": "The Chinese University of Hong Kong"
+      "institution": "The Chinese University of Hong Kong",
       "location": "Hong Kong, China",
       "url": "https://www.cuhk.edu.hk/",
       "area": "Finance",
       "studyType": "Master of Science"
     },
     {
-      "institution": "The Hong Kong University of Science and Technology"
+      "institution": "The Hong Kong University of Science and Technology",
       "location": "Hong Kong, China",
       "url": "https://hkust.edu.hk/",
       "area": "Chemical & Environmental Engineering",
